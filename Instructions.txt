@@ -2,28 +2,9 @@ Project Name - Link Prediction in Social Networks using Machine Learning
 
 ------------------------------------------------------------------------
 
-Group Members - 
+Team Members - 
 1. Alisha Shahane (UnityId - asshahan)
 2. Mrunmayi Deshpande (UnityId - mdeshpa4)
-
-------------------------------------------------------------------------
-
-Contributions - 
-1. Alisha Shahane :
-- Paper 2 and 4 Literature Survey
-- Graph Preprocessing and Feature Extraction
-- Logistic Regression Model
-- XGBoost Model
-- Analysing ROC-AUC curves and confusion matrices
-- Report writing
-
-2. Mrunmayi Deshpande :
-- Paper 1 and 3 Literature Survey
-- Feature Extraction & Data Preprocessing
-- Random Forest Model
-- SVM Model
-- Analysing feature importance and precision/recall metrics
-- Report writing
 
 ------------------------------------------------------------------------
 
